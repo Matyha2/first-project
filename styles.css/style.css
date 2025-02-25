@@ -232,3 +232,6 @@ address{
   justify-content: space-between;
   list-style: none;
 }
+.address__start{
+  justify-self: start;
+}
